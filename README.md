@@ -16,3 +16,6 @@ https://docs.google.com/document/d/1OuPgLQrv1mNx1SEiEeIIBC9Hw3HY-c-_EcbLLBokwjw/
 
 ## Final product demo video
 https://drive.google.com/file/d/1fhuUSnsrdH09fKUEjOkx7FkIIilf_kwq/view
+
+## Try it yourself
+https://github.com/Jayem1225/User_Interaction_Engineering_Final_Project/releases/tag/0.0.1
