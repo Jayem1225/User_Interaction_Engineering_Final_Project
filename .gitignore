@@ -1,0 +1,31 @@
+## Built using https://github.com/github/gitignore/blob/4d89c5d3e2880f946f63dd4346192dcd7e428d5a/VisualStudio.gitignore
+
+# Build output
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docview
+*.userprefs
+
+# NuGet
+*.nupkg
+packages/
+project.lock.json
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Windows
+Thumbs.db
+Desktop.ini
+*.lnk
